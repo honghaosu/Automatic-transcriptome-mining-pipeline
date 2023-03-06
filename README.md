@@ -1,5 +1,5 @@
 # Automatic-transcriptome-mining-pipeline
-##blastp for now
+blastp /
 ##Dependencies:os,subprocess,sys,pandas,biopython,pathlib,tempfile,blast,mafft,fasttree
 ##Database named as .protein.fa
 Usage: 
